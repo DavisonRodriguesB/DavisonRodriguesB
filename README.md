@@ -1,16 +1,49 @@
-## Hi there 👋
+# Olá, eu sou o Davison Bentes, seja bem vindo!
 
-<!--
-**DavisonRodriguesB/DavisonRodriguesB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor em formação (Front-end / Full Stack)
+🎓 Sistemas de Informação  
+💻 Foco atual: Front-end (HTML, CSS, JavaScript, Angular)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Sou desenvolvedor em formação, com base em Sistemas de Informação e **experiência prévia como Analista de Sistemas**, atuando diretamente com clientes, levantamento de requisitos, implantação de sistemas e melhoria de processos.
+
+Essa vivência me permite desenvolver interfaces com foco em **usabilidade, clareza e experiência do usuário**, entendendo não apenas o código, mas **como o sistema é utilizado na prática e o que o cliente realmente espera da solução**.
+
+Atualmente desenvolvo projetos práticos em **Front-end**, aplicando boas práticas, regras de negócio e integração com serviços externos, sempre buscando soluções funcionais, organizadas e intuitivas.
+
+Busco minha **primeira oportunidade como Desenvolvedor Júnior (Front-end ou Full Stack)**, onde eu possa evoluir tecnicamente e contribuir com produtos bem estruturados e orientados ao usuário.
+
+---
+
+## 🛠️ Tecnologias
+- HTML5  
+- CSS3  
+- JavaScript  
+- TypeScript  
+- Angular  
+- Tailwind CSS  
+- Git & GitHub  
+- Google Maps API (Google Cloud)  
+
+**Conhecimentos complementares:**
+- Levantamento de requisitos
+- Visão de negócio
+- Experiência do usuário (UX aplicada a sistemas)
+- Implantação e validação de sistemas
+
+---
+
+## 📂 Projeto em destaque
+🔹 **Sistema de Ordem de Serviço e Roteirização**  
+Sistema frontend desenvolvido em Angular, com regras de negócio realistas, roteirização inteligente e **visualização da rota no Google Maps**, utilizando Google Cloud.
+
+🚀 Demo online: https://ordem-de-servico-angular.vercel.app/login  
+📦 Repositório: https://github.com/DavisonRodriguesB/OrdemDeServico-Angular
+
+---
+
+## 📫 Contato
+- 💼 LinkedIn: https://www.linkedin.com/in/davison-rodriguesb/
+- 🐙 GitHub: https://github.com/DavisonRodriguesB

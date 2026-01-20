@@ -1,8 +1,13 @@
 # Olá, eu sou o Davison Bentes, seja bem vindo!
 
-🎯 Desenvolvedor em formação (Front-end / Full Stack)
+🎯 Desenvolvedor em formação (Front-end / Full Stack)  
 🎓 Sistemas de Informação  
+🎓 Pós-graduação em Inteligência Artificial, Machine Learning e Data Mining    
 💻 Foco atual: Front-end (HTML, CSS, JavaScript, Angular)
+
+<a href="https://www.linkedin.com/in/davison-rodriguesb/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
 
 ---
 
@@ -25,7 +30,10 @@ Busco minha **primeira oportunidade como Desenvolvedor Júnior (Front-end ou Ful
 - Angular  
 - Tailwind CSS  
 - Git & GitHub  
-- Google Maps API (Google Cloud)  
+- Google Maps API (Google Cloud)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,git" />
+</p>
 
 **Conhecimentos complementares:**
 - Levantamento de requisitos
@@ -43,7 +51,3 @@ Sistema frontend desenvolvido em Angular, com regras de negócio realistas, rote
 📦 Repositório: https://github.com/DavisonRodriguesB/OrdemDeServico-Angular
 
 ---
-
-## 📫 Contato
-- 💼 LinkedIn: https://www.linkedin.com/in/davison-rodriguesb/
-- 🐙 GitHub: https://github.com/DavisonRodriguesB

@@ -1,9 +1,9 @@
 # Olá, eu sou o Davison Bentes, seja bem vindo!
 
-🎯 Desenvolvedor em formação (Front-end / Full Stack)  
+🎯 Desenvolvedor (Front-end / Full Stack)  
 🎓 Sistemas de Informação  
 🎓 Pós-graduação em Inteligência Artificial, Machine Learning e Data Mining    
-💻 Foco atual: Front-end (HTML, CSS, JavaScript, Angular)
+💻 Foco atual: Front-end (HTML, CSS, Tailwind TypeScript, Angular)
 
 <a href="https://www.linkedin.com/in/davison-rodriguesb/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
@@ -12,25 +12,26 @@
 ---
 
 ## 🚀 Sobre mim
-Sou desenvolvedor em formação, com base em Sistemas de Informação e **experiência prévia como Analista de Sistemas**, atuando diretamente com clientes, levantamento de requisitos, implantação de sistemas e melhoria de processos.
-
-Essa vivência me permite desenvolver interfaces com foco em **usabilidade, clareza e experiência do usuário**, entendendo não apenas o código, mas **como o sistema é utilizado na prática e o que o cliente realmente espera da solução**.
-
-Atualmente desenvolvo projetos práticos em **Front-end**, aplicando boas práticas, regras de negócio e integração com serviços externos, sempre buscando soluções funcionais, organizadas e intuitivas.
-
-Busco minha **primeira oportunidade como Desenvolvedor Júnior (Front-end ou Full Stack)**, onde eu possa evoluir tecnicamente e contribuir com produtos bem estruturados e orientados ao usuário.
+Analista de Sistemas com experiência em implantação, validação e evolução de sistemas, atuando com levantamento de requisitos, processos e interação direta com clientes.
+ 
+Atualmente focado em Desenvolvimento Front-end, com projetos utilizando Angular, TypeScript, HTML e Tailwind CSS, aplicando boas práticas de componentização, integração com APIs REST, testes automatizados e foco em experiência do usuário.
+ 
+Possuo formação em Inteligência Artificial, Machine Learning e Data Mining, fortalecendo minha visão analítica na construção de soluções. Utilizo também IA generativa como apoio na produtividade, testes e desenvolvimento.
+ 
+Minha experiência com sistemas e usuários contribui para o desenvolvimento de interfaces mais funcionais, intuitivas e alinhadas ao negócio.
 
 ---
 
 ## 🛠️ Tecnologias
 - HTML5  
 - CSS3  
+- Tailwind CSS 
 - JavaScript  
 - TypeScript  
+- Python  
 - Angular  
-- Tailwind CSS  
 - Git & GitHub  
-- Google Maps API (Google Cloud)
+- Google Maps API (Google Cloud)  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,git" />
 </p>
@@ -40,6 +41,7 @@ Busco minha **primeira oportunidade como Desenvolvedor Júnior (Front-end ou Ful
 - Visão de negócio
 - Experiência do usuário (UX aplicada a sistemas)
 - Implantação e validação de sistemas
+- Metodologiaa Agile
 
 ---
 

@@ -1,6 +1,6 @@
 # Olá, eu sou o Davison Bentes, seja bem vindo!
 
-🎯 Desenvolvedor (Front-end / Full Stack)  
+🎯 Analista de Sistemas | Full Stack Developer Foco em Inovação, Experiência com Usuários e Regras de Negócio.  
 🎓 Sistemas de Informação  
 🎓 Pós-graduação em Inteligência Artificial, Machine Learning e Data Mining    
 💻 Foco atual: Front-end (HTML, CSS, Tailwind TypeScript, Angular)
@@ -52,4 +52,6 @@ Sistema frontend desenvolvido em Angular, com regras de negócio realistas, rote
 🚀 Demo online: https://ordem-de-servico-angular.vercel.app/login  
 📦 Repositório: https://github.com/DavisonRodriguesB/OrdemDeServico-Angular
 
+🔹 **Sistema de Controle de EPI**  
+📦 Repositório: https://github.com/DavisonRodriguesB/indt-projeto-controle-epis
 ---

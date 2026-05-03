@@ -60,7 +60,7 @@ Aplicação front-end desenvolvida em Angular com regras de negócio realistas, 
 🔹 **Sistema de Controle de EPI**  
 Projeto voltado ao controle operacional de EPIs, aplicando regras de negócio, organização de dados e fluxos de gestão operacional.
 
-Deploy: https://indt-projeto-controle-epis-1.onrender.com/
+Deploy: https://indt-projeto-controle-epis-1.onrender.com/    
 📦 Repositório: https://github.com/DavisonRodriguesB/indt-projeto-controle-epis  
 
 ---

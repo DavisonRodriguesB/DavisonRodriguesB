@@ -29,12 +29,14 @@ Minha vivência entre sistemas, usuários e processos contribui para o desenvolv
 - JavaScript  
 - TypeScript  
 - Angular  
+- Node.js  
+- PostgreSQL  
 - Python  
 - Git & GitHub  
 - Google Maps API (Google Cloud)  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,git,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,nodejs,postgres,git,python" />
 </p>
 
 ## 📌 Áreas de Atuação
@@ -49,7 +51,7 @@ Minha vivência entre sistemas, usuários e processos contribui para o desenvolv
 
 ## 📂 Projetos em Destaque
 
-🔹 **Sistema de Ordem de Serviço e Roteirização**  
+### 🔹 Sistema de Ordem de Serviço e Roteirização
 Aplicação front-end desenvolvida em Angular com regras de negócio realistas, roteirização inteligente e visualização geográfica via Google Maps.
 
 🚀 Demo online: https://ordem-de-servico-angular.vercel.app/login  
@@ -57,10 +59,29 @@ Aplicação front-end desenvolvida em Angular com regras de negócio realistas, 
 
 ---
 
-🔹 **Sistema de Controle de EPI**  
-Projeto voltado ao controle operacional de EPIs, aplicando regras de negócio, organização de dados e fluxos de gestão operacional.
+### 🛡️ Sistema de Controle de EPI (PIM)
+**Solução Full Stack para Gestão de Segurança e Conformidade**
 
-Deploy: https://indt-projeto-controle-epis-1.onrender.com/    
+Projeto desenvolvido para automatizar o controle operacional de Equipamentos de Proteção Individual (EPIs), transformando regras complexas de segurança do trabalho em um fluxo de gestão ágil e visual.
+
+**Foco Estratégico:**  
+Atuação como Analista de Sistemas no alinhamento entre requisitos de conformidade legal e eficiência operacional.
+
+**Gestão Ágil:**  
+Desenvolvimento orientado por Scrum e Kanban, priorizando funcionalidades de alto valor para o negócio.
+
+**Arquitetura Técnica:**  
+- **Frontend:** Angular + Tailwind CSS  
+- **Backend:** Node.js + TypeORM  
+- **Banco de Dados:** PostgreSQL  
+- **Deploy / DevOps:** Render  
+
+**Destaques do Projeto:**  
+- Dashboard de Conformidade Global com cálculo automático de metas  
+- Sistema de alertas para vencimento de CA e validade de equipamentos  
+- Interface 100% responsiva (Mobile-First)  
+
+🔗 Deploy: *https://indt-projeto-controle-epis-1.onrender.com/*  
 📦 Repositório: https://github.com/DavisonRodriguesB/indt-projeto-controle-epis  
 
 ---
